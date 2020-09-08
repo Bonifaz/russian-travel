@@ -1,0 +1,18 @@
+.place__paragraphs{
+    display: flex;
+    flex-direction: column;
+    width: 49.18%;
+}
+
+@media screen and (max-width: 1023px){
+    .place__paragraphs{
+        width: 48.8%;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .place__paragraphs{
+        width: 90%;
+        margin: 0 auto 0 auto;
+    }
+}

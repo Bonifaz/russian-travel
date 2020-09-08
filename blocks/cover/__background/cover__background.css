@@ -1,0 +1,5 @@
+.cover__background{
+    background-image: url(../../../../russian-travel/images/cover-trains.jpg);
+    width: 100%;
+    background-size: cover; 
+}
