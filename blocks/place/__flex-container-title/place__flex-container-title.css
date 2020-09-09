@@ -1,11 +1,11 @@
-.place__flex-container-two{
+.place__flex-container-title{
     display: flex;
     flex-direction: row;
-    width: 100%;
+    width: 100%; 
 }
 
 @media screen and (max-width: 767px){
-    .place__flex-container-two{
+    .place__flex-container-title{
         flex-direction: column;
     }
 }

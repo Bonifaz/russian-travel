@@ -46,8 +46,8 @@
 
 @import url(../blocks/places/places.css);
 @import url(../blocks/place/place.css);
-@import url(../blocks/place/__flex-container-one/place__flex-container-one.css);
-@import url(../blocks/place/__flex-container-two/place__flex-container-two.css);
+@import url(../blocks/place/__flex-container-title/place__flex-container-title.css);
+@import url(../blocks/place/__flex-container-content/place__flex-container-content.css);
 @import url(../blocks/place/__title/place__title.css);
 @import url(../blocks/place/__image/place__image.css);
 @import url(../blocks/place/__website/place__website.css);
