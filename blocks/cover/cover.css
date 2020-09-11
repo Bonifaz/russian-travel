@@ -1,7 +1,9 @@
 .cover{
+    position: relative;
     width: 92.5%;
     margin: 92px auto 92px auto;
     display: flex;
+    z-index: 2;
 }
 
 @media screen and (max-width: 1279px){

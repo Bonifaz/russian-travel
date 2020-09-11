@@ -18,14 +18,13 @@
     .photo-grid{
         width: 93.75%;
         grid-template-columns: repeat(2, 48.8%);
-        gap: 16px;
     }
 }
 
 @media screen and (max-width: 767px){
     .photo-grid{
-    width: 90%;
-    grid-template-columns: repeat(1, 100%);
-    gap: 12px;
+        width: 90%;
+        grid-template-columns: repeat(1, 100%);
+        gap: 12px;
     }
 }

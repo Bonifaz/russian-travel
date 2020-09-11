@@ -1,12 +1,12 @@
 .place{
-    display: flex;
-    width: 100%;
-    flex-direction: column;
-    margin-bottom: 80px;
+     display: flex;
+     width: 100%;
+     flex-direction: column;
+     margin-bottom: 80px;
 }
 
 .places .place:last-child{
-    margin-bottom: 0;
+     margin-bottom: 0;
 }
 
 @media screen and (max-width: 1023px){
@@ -17,7 +17,6 @@
 
 @media screen and (max-width: 767px){
     .place{
-        flex-direction: column;
         margin-bottom: 48px;
     }
 }
