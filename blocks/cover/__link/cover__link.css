@@ -18,12 +18,5 @@
 }
 
 .cover__link:hover::after{
-    content: " ";
-    position: absolute;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
     background-color: RGBA(42, 44, 47, 0.8);
-    z-index: 1;
 }
